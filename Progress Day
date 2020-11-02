@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[5] = {660,680,650,665,705} ;
+    int sum = 0 ;
+    for(int i = 0 ; i < 4 ; i++){
+        if(arr[i] > arr[i+1]){
+            sum++;
+        }
+    }
+    cout << sum ;
+     
+    
+    
+    
+    
+    
+	return 0;
+}
