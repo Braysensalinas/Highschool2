@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<title>Connect 4</title>
+
+	</head>
+	<body>
+		
+		<div class=¨grid¨>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+            <div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+			<div class=¨cell¨></div>
+		
+
+
+		</div>	
+
+
+		
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+main.css
+
+.grid(
+    display: .grid;
+    grid-template-colums; repeat(7, 110px) ;
+    grid-template-rows: repeat(6, 110px) ;
+    width: 770px;
+    length: 660px ; 
+
+)
